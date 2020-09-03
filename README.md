@@ -1,4 +1,4 @@
-Neural Collaborative Filtering
+Recurrent Recommender Networks
 ================
 
 An implementation of Recurrent Recommender Networks (RRN) using [R
