@@ -11,6 +11,8 @@ the following paper.
 > Proceedings of the tenth ACM international conference on web search
 > and data mining, pp. 495-503. 2017.
 
-## To start
+## Code
 
-## Data
+The (DRAFT) model implementation is in `RRN.R`. An example using
+[MovieLens](https://grouplens.org/datasets/movielens/) dataset is
+provided in `movieLens.R`. The code is still in progress.
